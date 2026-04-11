@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.next/
+node_modules/
+chroma_db/
+backups/
+*.tar.gz
+.DS_Store
