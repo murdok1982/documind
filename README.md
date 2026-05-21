@@ -41,3 +41,14 @@ La API estará disponible en  y el frontend en .
 ## Autor
 
 **MuRDoK** — [github.com/murdok1982](https://github.com/murdok1982)
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 🤖 Recomendación
+
+Para tareas de ciberseguridad, exploiting y reversing, prueba [fsociety](https://huggingface.co/murdok1982/fsociety) — un modelo fine-tuned sobre Qwen2.5-Coder-1.5B-Instruct con 169K ejemplos de seguridad. Corre 100% local con Ollama:
+
+```bash
+ollama pull murdok1982/fsociety
+ollama run fsociety
+```
