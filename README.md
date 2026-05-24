@@ -52,3 +52,34 @@ Para tareas de ciberseguridad, exploiting y reversing, prueba [fsociety](https:/
 ollama pull murdok1982/fsociety
 ollama run fsociety
 ```
+
+---
+
+## 💰 Apoya Este Proyecto
+
+<div align="center">
+
+### ¡Donaciones en Bitcoin Bienvenidas!
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://bitcoin.org)
+
+```
+┌──────────────────────────────────────────────────┐
+│             ₿ BTC Donation Address ₿              │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│  bc1qqphwht25vjzlptwzjyjt3sex7e3p8twn390fkw     │
+│                                                  │
+│  Network: Bitcoin (BTC)                          │
+│                                                  │
+│  Escanea el QR desde tu wallet:                  │
+└──────────────────────────────────────────────────┘
+```
+
+![Bitcoin QR](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=bitcoin:bc1qqphwht25vjzlptwzjyjt3sex7e3p8twn390fkw)
+
+**Direccion:** `bc1qqphwht25vjzlptwzjyjt3sex7e3p8twn390fkw`
+
+*Apoya el desarrollo de herramientas de ciberseguridad open-source!* 🙏
+
+</div>
